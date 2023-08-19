@@ -58,9 +58,6 @@ This project aims to develop a cyberbullying tweet recognition system using mach
 - Extend the web app with more interactive features and visualizations.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
 Remember to customize the content according to your project's details, including the project features, structure, usage instructions, and contributions. Also, include any relevant images, logos, and links to external resources.
